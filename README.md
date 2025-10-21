@@ -22,11 +22,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configuring Agent Roles to define staff permissions.
+- Establishing Departments and Teams to organize agents and manage ticket visibility.
+- Populating the system by creating Agents (staff) and Users (clients).
+- Defining Service Level Agreements (SLAs) to set response time expectations.
+- Building Help Topics to ensure proper ticket routing and data collection.
+- Securing client access by requiring user registration to create tickets.
 
 <h2>Configuration Steps</h2>
 
@@ -34,22 +35,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Build the Organizational Structure (Roles, Departments & Teams)</h2>
+
+
+First, the core business structure was built. I navigated to Admin Panel -> Agents -> Roles to create a "Supreme Admin" role with full permissions. Next, I set up ticket visibility and routing by creating Departments (Admin Panel -> Agents -> Departments), such as "SysAdmins." Finally, I configured Teams (Admin Panel -> Agents -> Teams) like "Online Banking" to allow for pulling agents from different departments onto a single team for specific issues.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
