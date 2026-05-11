@@ -30,9 +30,9 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
   * I also configured the organizational structure by:
 
-  1. **Departments**: Created a **SysAdmins** department to handle backend technical issues.
+ 1. **Departments**: Created a **SysAdmins** department to handle backend technical issues.
 
-  2. **Teams**: Created an **"Online Banking"** team to group agents from different departments to work on specific high-priority business functions.
+ 2. **Teams**: Created an **"Online Banking"** team to group agents from different departments to work on specific high-priority business functions.
 
 <img width="809" height="680" alt="image" src="https://github.com/user-attachments/assets/2359d275-94e8-4859-9486-302272dee139" />
 
