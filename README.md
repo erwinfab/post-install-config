@@ -3,31 +3,32 @@
 
 
 # osTicket - Post-Install Configuration
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+*This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.*
 
 ## Executive Summary
-This project focuses on the post-install configuration of the osTicket platform. I configured the system’s organizational hierarchy, including Roles, Departments, and Teams, and established Service Level Agreements (SLAs) to define ticket response and resolution expectations. This setup ensures a streamlined workflow for support agents and clear communication for end-users.
+This project focuses on the post-install configuration of the **osTicket** platform. I configured the system’s organizational hierarchy, including **Roles**, **Departments**, and **Teams**, and established **Service Level Agreements (SLAs)** to define ticket response and resolution expectations. This setup ensures a streamlined workflow for support agents and clear communication for end-users.
 
-### Environments and Technologies Used
+## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-### Operating Systems Used 
+## Operating Systems Used 
 
 - Windows 10</b> (21H2)
 
-## Post-Install Configuration Objectives 
+## Post-Install Configuration Objectives
 
-- Configuring Agent Roles to define staff permissions.
-- Establishing Departments and Teams to organize agents and manage ticket visibility.
-- Populating the system by creating Agents (staff) and Users (clients).
-- Defining Service Level Agreements (SLAs) to set response time expectations.
-- Building Help Topics to ensure proper ticket routing and data collection.
-- Securing client access by requiring user registration to create tickets.
+* **User/Agent Differentiation**: Distinguishing between the Agent Panel and the Admin Panel.
 
-<h2>Configuration Steps</h2>
+* **Access Control**: Configuring grouping permissions and departmental visibility.
+
+* **SLA Management**: Establishing response time targets for different ticket severities.
+
+* **Help Topics**: Creating intuitive categories for users to streamline ticket routing.
+
+Configuration Steps
 
 
 <img width="407" height="294" alt="image" src="https://github.com/user-attachments/assets/f3806e64-5963-4c12-b1c1-e082bfc47e09" />
