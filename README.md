@@ -12,7 +12,7 @@ This project focuses on the post-install configuration of the **osTicket** platf
 - **Microsoft Azure** (Virtual Machines/Compute)
 - **Remote Desktop (RDP)**
 - **Internet Information Services (IIS)**
--- **osTicket Administration Panel**
+- **osTicket Administration Panel**
 
 ### Operating Systems Used 
 - Windows 10 (21H2)
