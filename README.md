@@ -29,7 +29,7 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
 * **Help Topics**: Creating intuitive categories for users to streamline ticket routing.
 
-Configuration Steps
+## Configuration Steps
 
 
 <img width="407" height="294" alt="image" src="https://github.com/user-attachments/assets/f3806e64-5963-4c12-b1c1-e082bfc47e09" />
