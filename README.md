@@ -1,24 +1,24 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+
+# osTicket - Post-Install Configuration
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
+##
 
 
-
-<h2>Environments and Technologies Used</h2>
+## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+## Operating Systems Used 
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+## Post-Install Configuration Objectives 
 
 - Configuring Agent Roles to define staff permissions.
 - Establishing Departments and Teams to organize agents and manage ticket visibility.
