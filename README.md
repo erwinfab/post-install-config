@@ -37,14 +37,15 @@ This project focuses on the post-install configuration of the **osTicket** platf
  <img width="407" height="360" alt="image" src="https://github.com/user-attachments/assets/90557095-42ab-4e4f-95e6-33a52f7aea44" />
 
 
-</p>
-<p>
-<h2>Step 1: Configure Organizational Structure</h2>
+Step 1: Configuring Roles, Departments, and Teams
+To establish proper permissions, I created a "Supreme Admin" role within the Admin Panel. This role grants full administrative control over all ticket actions, including deletion and assignment.
 
+I also configured the organizational structure by:
 
-First, set up the foundational structure for your agents. Navigate to Agents $\rightarrow$ Roles to create a "Supreme Admin" role. Then, define ticket routing and visibility by going to Agents $\rightarrow$ Departments and creating the "SysAdmins" department. Finally, go to Agents $\rightarrow$ Teams to create the "Online Banking" team, which lets you group agents from different departments for specific assignments
-</p>
-<br />
+Departments: Created a SysAdmins department to handle backend technical issues.
+
+Teams: Created an "Online Banking" team to group agents from different departments to work on specific high-priority business functions.
+
 
 <img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/1fd330be-e7ae-45ca-87ba-188022bacf74" /> <img width="495" height="295" alt="image" src="https://github.com/user-attachments/assets/a19a990a-9e78-4095-8dac-9a9678047645" />
 
