@@ -42,9 +42,9 @@ This project focuses on the post-install configuration of the **osTicket** platf
 * I configured the system to require **Registration**, ensuring that only authorized users can submit tickets. This enhances security and record-keeping.
 
 I then provisioned new staff members to simulate a real-world help desk environment:
-* **Jane Doe**: Assigned to the **SysAdmins** department.
-* **John Doe**: Assigned to the **Support** department.
-* **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
+ * **Jane Doe**: Assigned to the **SysAdmins** department.
+ * **John Doe**: Assigned to the **Support** department.
+ * **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
 
 <img width="961" height="427" alt="image" src="https://github.com/user-attachments/assets/34198790-18f2-4069-8fbf-96a77329917d" />
 
@@ -53,8 +53,8 @@ I then provisioned new staff members to simulate a real-world help desk environm
 **Step 3**: **Establishing SLAs and Help Topics**
 
 To meet business requirements, I defined three **Service Level Agreements (SLAs)** to govern response times:
-* **Sev-A**: 1-hour grace period, 24/7 schedule (Critical Outages).
-* **Sev-B**: 4-hour grace period, 24/7 schedule (High Priority).
-* **Sev-C**: 8-hour grace period, Business Hours (Standard Requests).
+ * **Sev-A**: 1-hour grace period, 24/7 schedule (Critical Outages).
+ * **Sev-B**: 4-hour grace period, 24/7 schedule (High Priority).
+ * **Sev-C**: 8-hour grace period, Business Hours (Standard Requests).
 
 Finally, I created several **Help Topics** (e.g., Password Reset, Equipment Request, Business Critical Outage). These topics allow the system to automatically route tickets to the correct department based on the user's selection.
