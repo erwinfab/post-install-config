@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
-
 # osTicket - Post-Install Configuration
 *This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.*
 
@@ -10,7 +9,7 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
 ### Environments and Technologies Used
 
-- ***Microsoft Azure** (Virtual Machines/Compute)
+- **Microsoft Azure** (Virtual Machines/Compute)
 - **Remote Desktop (RDP)**
 - **Internet Information Services (IIS)**
 - **osTicket Administration Panel**
