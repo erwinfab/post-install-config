@@ -33,10 +33,9 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
 **Step 1**: **Configuring Roles, Departments, and Teams**
 
+* To establish proper permissions, I created a "Supreme Admin" role within the Admin Panel. This role grants full administrative control over all ticket actions, including deletion and assignment.
 
-To establish proper permissions, I created a "Supreme Admin" role within the Admin Panel. This role grants full administrative control over all ticket actions, including deletion and assignment.
-
-I also configured the organizational structure by:
+  * I also configured the organizational structure by:
 
 1. **Departments**: Created a **SysAdmins** department to handle backend technical issues.
 
