@@ -14,7 +14,7 @@ This project focuses on the post-install configuration of the **osTicket** platf
 - **osTicket Administration Panel**
 
 ### Operating Systems Used 
-- **Windows 10** (21H2)
+- *Windows 10* (21H2)
 
 ### Post-Install Configuration Objectives
 * **User/Agent Differentiation**: Distinguishing between the Agent Panel and the Admin Panel.
@@ -30,15 +30,13 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
   * I also configured the organizational structure by:
 
-1. **Departments**: Created a **SysAdmins** department to handle backend technical issues.
+  1. **Departments**: Created a **SysAdmins** department to handle backend technical issues.
 
-2. **Teams**: Created an **"Online Banking"** team to group agents from different departments to work on specific high-priority business functions.
+  2. **Teams**: Created an **"Online Banking"** team to group agents from different departments to work on specific high-priority business functions.
 
 <img width="809" height="680" alt="image" src="https://github.com/user-attachments/assets/2359d275-94e8-4859-9486-302272dee139" />
 
 ---
-
-
 
 **Step 2**: **Agent and User Provisioning**
 
@@ -46,20 +44,19 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
  * I then provisioned new staff members to simulate a real-world help desk environment:
 
-* **Jane Doe**: Assigned to the **SysAdmins** department.
+ * **Jane Doe**: Assigned to the **SysAdmins** department.
 
-* **John Doe**: Assigned to the **Support** department.
+ * **John Doe**: Assigned to the **Support** department.
 
-* **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
+ * **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
 
 <img width="961" height="427" alt="image" src="https://github.com/user-attachments/assets/34198790-18f2-4069-8fbf-96a77329917d" />
 
 ---
 
-
 **Step 3**: **Establishing SLAs and Help Topics**
 
-* To meet business requirements, I defined three **Service Level Agreements (SLAs)** to govern response times:
+To meet business requirements, I defined three **Service Level Agreements (SLAs)** to govern response times:
 
  * **Sev-A**: 1-hour grace period, 24/7 schedule (Critical Outages).
 
