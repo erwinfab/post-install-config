@@ -15,17 +15,12 @@ This project focuses on the post-install configuration of the **osTicket** platf
 - **osTicket Administration Panel**
 
 ### Operating Systems Used 
-
 - Windows 10 (21H2)
 
 ### Post-Install Configuration Objectives
-
 * **User/Agent Differentiation**: Distinguishing between the Agent Panel and the Admin Panel.
-
 * **Access Control**: Configuring grouping permissions and departmental visibility.
-
 * **SLA Management**: Establishing response time targets for different ticket severities.
-
 * **Help Topics**: Creating intuitive categories for users to streamline ticket routing.
 
 ### Configuration Steps
