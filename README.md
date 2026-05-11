@@ -49,10 +49,9 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
 **Step 2**: **Agent and User Provisioning**
 
+* I configured the system to require **Registration**, ensuring that only authorized users can submit tickets. This enhances security and record-keeping.
 
-I configured the system to require **Registration**, ensuring that only authorized users can submit tickets. This enhances security and record-keeping.
-
-I then provisioned new staff members to simulate a real-world help desk environment:
+ * I then provisioned new staff members to simulate a real-world help desk environment:
 
 * **Jane Doe**: Assigned to the **SysAdmins** department.
 
@@ -65,14 +64,14 @@ I then provisioned new staff members to simulate a real-world help desk environm
 ---
 
 
-<h2>Step 3: Configure Agents (Staff)</h2>
+**Step 3**: **Establishing SLAs and Help Topics**
 
-With the structure in place, create your staff accounts. In the Admin Panel, go to Agents $\rightarrow$ Add New to create your two agents: "Jane" (assigned to the SysAdmins department/Online banking team) and "John" (assigned to the Support department).
+* To meet business requirements, I defined three **Service Level Agreements (SLAs)** to govern response times:
 
+ * **Sev-A**: 1-hour grace period, 24/7 schedule (Critical Outages).
 
+ * **Sev-B**: 4-hour grace period, 24/7 schedule (High Priority).
 
+ * **Sev-C**: 8-hour grace period, Business Hours (Standard Requests).
 
-<h2>Step 4: Configure Ticket Management Rules</h2>
-
-The final step is to define the business rules for handling tickets. Go to Manage $\rightarrow$ SLA to create three service levels: "Sev-A" (1-hour grace period, 24/7), "Sev-B" (4-hour grace period, 24/7), and "Sev-C" (8-hour grace period, Business Hours)7. Lastly, navigate to Manage $\rightarrow$ Help Topics to create the ticket categories users will select, such as "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset".
-
+Finally, I created several **Help Topics** (e.g., Password Reset, Equipment Request, Business Critical Outage). These topics allow the system to automatically route tickets to the correct department based on the user's selection.
