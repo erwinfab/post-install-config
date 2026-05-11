@@ -5,7 +5,7 @@
 # osTicket - Post-Install Configuration
 *This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.*
 
-### Executive Summary
+## Executive Summary
 This project focuses on the post-install configuration of the **osTicket** platform. I configured the system’s organizational hierarchy, including **Roles**, **Departments**, and **Teams**, and established **Service Level Agreements (SLAs)** to define ticket response and resolution expectations. This setup ensures a streamlined workflow for support agents and clear communication for end-users.
 
 ### Environments and Technologies Used
@@ -42,16 +42,28 @@ I also configured the organizational structure by:
 
 2. **Teams**: Created an **"Online Banking"** team to group agents from different departments to work on specific high-priority business functions.
 
+<img width="809" height="680" alt="image" src="https://github.com/user-attachments/assets/2359d275-94e8-4859-9486-302272dee139" />
+
+---
 
 
 
-
-<h2>Step 2: Configure System Access & Users (Customers)</h2>
-
-Next, secure the system and add your customers. Go to Settings $\rightarrow$ User Settings and uncheck "Allow anyone to create tickets" to ensure registration and login are required. After securing access, switch to the Agent Panel $\rightarrow$ Users $\rightarrow$ Add New to create the customer accounts "Karen" and "Ken".
+**Step 2**: **Agent and User Provisioning**
 
 
+I configured the system to require **Registration**, ensuring that only authorized users can submit tickets. This enhances security and record-keeping.
 
+I then provisioned new staff members to simulate a real-world help desk environment:
+
+* **Jane Doe**: Assigned to the **SysAdmins** department.
+
+* **John Doe**: Assigned to the **Support** department.
+
+* **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
+
+<img width="961" height="427" alt="image" src="https://github.com/user-attachments/assets/34198790-18f2-4069-8fbf-96a77329917d" />
+
+---
 
 
 <h2>Step 3: Configure Agents (Staff)</h2>
