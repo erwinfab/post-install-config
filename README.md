@@ -31,48 +31,35 @@ This project focuses on the post-install configuration of the **osTicket** platf
 
 ## Configuration Steps
 
-
-<img width="407" height="294" alt="image" src="https://github.com/user-attachments/assets/f3806e64-5963-4c12-b1c1-e082bfc47e09" />
- <img width="399" height="255" alt="image" src="https://github.com/user-attachments/assets/899f311d-ae35-4f81-afb9-e118a55540b2" />
- <img width="407" height="360" alt="image" src="https://github.com/user-attachments/assets/90557095-42ab-4e4f-95e6-33a52f7aea44" />
-
-
-Step 1: Configuring Roles, Departments, and Teams
+**Step 1**: **Configuring Roles, Departments, and Teams**
 To establish proper permissions, I created a "Supreme Admin" role within the Admin Panel. This role grants full administrative control over all ticket actions, including deletion and assignment.
 
 I also configured the organizational structure by:
 
-Departments: Created a SysAdmins department to handle backend technical issues.
+1. **Departments**: Created a **SysAdmins** department to handle backend technical issues.
 
-Teams: Created an "Online Banking" team to group agents from different departments to work on specific high-priority business functions.
+2. **Teams**: Created an **"Online Banking"** team to group agents from different departments to work on specific high-priority business functions.
 
 
-<img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/1fd330be-e7ae-45ca-87ba-188022bacf74" /> <img width="495" height="295" alt="image" src="https://github.com/user-attachments/assets/a19a990a-9e78-4095-8dac-9a9678047645" />
 
 
 
 <h2>Step 2: Configure System Access & Users (Customers)</h2>
 
 Next, secure the system and add your customers. Go to Settings $\rightarrow$ User Settings and uncheck "Allow anyone to create tickets" to ensure registration and login are required. After securing access, switch to the Agent Panel $\rightarrow$ Users $\rightarrow$ Add New to create the customer accounts "Karen" and "Ken".
-</p>
-<br />
 
-<img width="414" height="528" alt="image" src="https://github.com/user-attachments/assets/be550c34-91fa-4dab-8cd5-ca2b8fe9d82f" /> <img width="384" height="525" alt="image" src="https://github.com/user-attachments/assets/cfe2a8f6-928d-46c8-a9e7-2a538a6f2a2b" />
-<img width="410" height="279" alt="image" src="https://github.com/user-attachments/assets/2b3e5aaa-74d8-49cc-a11d-7b336cd9a8d7" /> <img width="397" height="271" alt="image" src="https://github.com/user-attachments/assets/e6747566-f3b0-4e66-91f4-f908a835672e" />
+
 
 
 
 <h2>Step 3: Configure Agents (Staff)</h2>
 
 With the structure in place, create your staff accounts. In the Admin Panel, go to Agents $\rightarrow$ Add New to create your two agents: "Jane" (assigned to the SysAdmins department/Online banking team) and "John" (assigned to the Support department).
-</p>
-<br />
 
-<img width="472" height="352" alt="image" src="https://github.com/user-attachments/assets/2ce9d761-3b33-4e99-a6f8-43df35ffe140" /> <img width="469" height="332" alt="image" src="https://github.com/user-attachments/assets/bacfc5e6-74b3-468e-80dd-2ad5065510b5" />
+
 
 
 <h2>Step 4: Configure Ticket Management Rules</h2>
 
 The final step is to define the business rules for handling tickets. Go to Manage $\rightarrow$ SLA to create three service levels: "Sev-A" (1-hour grace period, 24/7), "Sev-B" (4-hour grace period, 24/7), and "Sev-C" (8-hour grace period, Business Hours)7. Lastly, navigate to Manage $\rightarrow$ Help Topics to create the ticket categories users will select, such as "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset".
-</p>
-<br />
+
