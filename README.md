@@ -8,14 +8,13 @@
 This project focuses on the post-install configuration of the **osTicket** platform. I configured the system’s organizational hierarchy, including **Roles**, **Departments**, and **Teams**, and established **Service Level Agreements (SLAs)** to define ticket response and resolution expectations. This setup ensures a streamlined workflow for support agents and clear communication for end-users.
 
 ### Environments and Technologies Used
-
 - **Microsoft Azure** (Virtual Machines/Compute)
 - **Remote Desktop (RDP)**
 - **Internet Information Services (IIS)**
 - **osTicket Administration Panel**
 
 ### Operating Systems Used 
-- Windows 10 (21H2)
+- **Windows 10** (21H2)
 
 ### Post-Install Configuration Objectives
 * **User/Agent Differentiation**: Distinguishing between the Agent Panel and the Admin Panel.
@@ -23,7 +22,7 @@ This project focuses on the post-install configuration of the **osTicket** platf
 * **SLA Management**: Establishing response time targets for different ticket severities.
 * **Help Topics**: Creating intuitive categories for users to streamline ticket routing.
 
-### Configuration Steps
+## Configuration Steps
 
 **Step 1**: **Configuring Roles, Departments, and Teams**
 
