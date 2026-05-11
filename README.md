@@ -9,6 +9,7 @@
 This project focuses on the post-install configuration of the **osTicket** platform. I configured the system’s organizational hierarchy, including **Roles**, **Departments**, and **Teams**, and established **Service Level Agreements (SLAs)** to define ticket response and resolution expectations. This setup ensures a streamlined workflow for support agents and clear communication for end-users.
 
 ## Environments and Technologies Used
+
 - **Microsoft Azure** (Virtual Machines/Compute)
 - **Remote Desktop (RDP)**
 - **Internet Information Services (IIS)**
