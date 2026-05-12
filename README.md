@@ -46,7 +46,7 @@ I then provisioned new staff members to simulate a real-world help desk environm
  * **John Doe**: Assigned to the **Support** department.
  * **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
 
-<img width="962" height="405" alt="image" src="https://github.com/user-attachments/assets/2b2ca5f0-7435-4845-a14e-f6f9012c2e54" />
+<img width="958" height="485" alt="image" src="https://github.com/user-attachments/assets/84056e19-09fe-4822-8201-5a8e9b1a2635" />
 
 ---
 
