@@ -60,6 +60,8 @@ To meet business requirements, I defined three **Service Level Agreements (SLAs)
 Finally, I created several **Help Topics** (e.g., Password Reset, Equipment Request, Business Critical Outage). These topics allow the system to automatically route tickets to the correct department based on the user's selection.
 
 <img width="961" height="420" alt="image" src="https://github.com/user-attachments/assets/0cc8b799-d6f6-4871-8940-0059a1394540" />
+
+
 <img width="957" height="637" alt="image" src="https://github.com/user-attachments/assets/d5637a38-5d7b-4680-a622-b7f2c545c760" />
 
 
