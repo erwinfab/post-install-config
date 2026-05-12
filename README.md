@@ -46,7 +46,7 @@ I then provisioned new staff members to simulate a real-world help desk environm
  * **John Doe**: Assigned to the **Support** department.
  * **Users**: Created profiles for **Karen** and **Ken** as the primary "customers" who will be generating support requests.
 
-<img width="958" height="485" alt="image" src="https://github.com/user-attachments/assets/84056e19-09fe-4822-8201-5a8e9b1a2635" />
+<img width="955" height="484" alt="image" src="https://github.com/user-attachments/assets/03929788-9e45-4369-8fc5-1a218b06cd54" />
 
 ---
 
@@ -59,6 +59,8 @@ To meet business requirements, I defined three **Service Level Agreements (SLAs)
 
 Finally, I created several **Help Topics** (e.g., Password Reset, Equipment Request, Business Critical Outage). These topics allow the system to automatically route tickets to the correct department based on the user's selection.
 
-<img width="885" height="344" alt="image" src="https://github.com/user-attachments/assets/fee25547-d252-4bd3-a199-f5faabf9907b" />
+<img width="961" height="420" alt="image" src="https://github.com/user-attachments/assets/0cc8b799-d6f6-4871-8940-0059a1394540" />
+<img width="957" height="637" alt="image" src="https://github.com/user-attachments/assets/d5637a38-5d7b-4680-a622-b7f2c545c760" />
 
-<img width="881" height="317" alt="image" src="https://github.com/user-attachments/assets/0b43a471-1997-4c02-a5fb-bf5d9b614949" />
+
+
