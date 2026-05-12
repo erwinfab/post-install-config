@@ -69,5 +69,22 @@ Finally, I created several **Help Topics** (e.g., Password Reset, Equipment Requ
 
 <img width="957" height="637" alt="image" src="https://github.com/user-attachments/assets/d5637a38-5d7b-4680-a622-b7f2c545c760" />
 
+---
+
+### Skills Demonstrated 
+
+* **Active Directory (Domain Services)**: Managing user accounts and organizational units.
+
+* **DNS Resolution**: Understanding how service names map to IP addresses within a network.
+
+* **IIS Web Server Configuration**: Fine-tuning a production web server to host third-party applications.
+
+* **Virtualization (Azure/VirtualBox)**: Building and managing resources within a cloud-based lab environment.
+
+* **Help Desk Ticketing Systems**: Architecting the backend logic of a professional support platform.
+
+* **Role-Based Access Control (RBAC)**: Implementing granular permissions to ensure data security and departmental isolation.
+
+* **SLA Management**: Defining and enforcing contractual response and resolution timeframes.
 
 
